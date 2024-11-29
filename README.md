@@ -1,12 +1,6 @@
 # YugKarya
 YugKarya : Where Tradition meets Innovation a Job Portal
 
-
-Welcome to YugKarya, a modern and interactive job portal designed to connect job seekers with employers. This platform streamlines the job search and hiring processes by offering a user-friendly interface and advanced features for both employers and job seekers.
-
-
-YugKarya: Job Portal
-
 Welcome to YugKarya, a modern and interactive job portal designed to connect job seekers with employers. This platform streamlines the job search and hiring processes by offering a user-friendly interface and advanced features for both employers and job seekers.
 
 Features
